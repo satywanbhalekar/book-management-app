@@ -5,5 +5,4 @@ function App() {
   return <BookDashboard />;
 }
 
-
 export default App;
